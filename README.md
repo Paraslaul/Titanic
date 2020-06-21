@@ -1,5 +1,5 @@
 # Titanic:
-This is a Machine learning model based on Disaster. It apllies different Machine Learning Algorithms on Titanic dataset to predict the Survival Rate of different passengers on Titanic.
+This is a Machine learning model based on Disaster. It uses different Machine Learning Algorithms on Titanic dataset to predict the Survival Rate of different passengers on Titanic.
 
 # Requirements:
 - jupyter notebook
